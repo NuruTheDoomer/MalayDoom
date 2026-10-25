@@ -68,7 +68,7 @@ Chocolate Doom v3.1.1, Crispy Doom v7.1.0, PrBoom+ v2.6.66, PrBoomX v2.9.2, DSDA
 
 **4** = Nyan: Secret Message Format must be set to `Default`; Woof/Nugget/Cherry: Announce Revealed Secrets must be set to `On`
 
-***** = See the [Not Supported](#not-supported) section below
+\* = See the [Not Supported](#not-supported) section below
 
 ---
 
