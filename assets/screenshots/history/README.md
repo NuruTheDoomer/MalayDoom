@@ -4,7 +4,7 @@ These are the screenshots taken throughout the early days of MalayDoom's develop
 
 ---
 
-![](sopluuu.png)
+![](sopluuu.PNG)
 
 Dated 30th July 2021. This is a screenshot I sent to a friend during the pandemic. The last obituary roughly translates to: "NuruddinPlaysDOOM got too close to a cacodemon. Follow the SOP next time! :v" (yes, this is before I have a separate Doom name)<br/>
 Basically an earlier translation of the obituary back when I made this project with GZDoom in mind, and way before Woof! added support for them. The only added part is the [SOP](https://en.wikipedia.org/wiki/Standard_operating_procedure) message, which is especially relevant back then iykyk.
