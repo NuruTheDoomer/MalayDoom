@@ -1,6 +1,8 @@
+<img width="30%" src="assets/M_MALAYDOOM.png" alt="MalayDoom logo" />
+
 # MalayDoom
 
-**Projek penyetempatan bahasa Melayu untuk Classic Doom. Inilah Doom dalam Bahasa Melayu!**
+**Projek terjemahan bahasa Melayu untuk Classic Doom. Inilah Doom, tapi dalam Bahasa Melayu!**
 
 MalayDoom ialah projek peminat tidak rasmi yang menterjemahkan Classic Doom dan keluaran berkaitannya ke dalam bahasa Melayu.
 
@@ -10,7 +12,7 @@ MalayDoom ialah projek peminat tidak rasmi yang menterjemahkan Classic Doom dan 
 
 ## Permainan yang Disokong
 
-MalayDoom Revision 1 akan merangkumi WAD penterjemahan untuk permainan berikut:
+MalayDoom Revision 1 akan menyediakan WAD penterjemahan untuk permainan berikut:
 
 - The Ultimate Doom
 

@@ -1,3 +1,5 @@
+<img width="30%" src="assets/M_MALAYDOOM.png" alt="MalayDoom logo" />
+
 # MalayDoom
 
 **A Malay localization project for Classic Doom. It's Doom, but in Bahasa Melayu!**
