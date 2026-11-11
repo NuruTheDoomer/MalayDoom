@@ -46,7 +46,7 @@ Lihat [COMPATIBILITY.md](COMPATIBILITY.md) untuk maklumat lanjut.
 
 ## Tangkapan Layar
 
-Lihat [SHOWCASE.md](SHOWCASE.md) untuk tangkapan layar MalayDoom dalam permainan. Jika anda ingin melihat tangkapan skrin lama daripada proses pembangunan projek ini, ia boleh dilihat [di sini](assets/screenshots/history/README.md)!
+Lihat [SHOWCASE.md](SHOWCASE.md) untuk tangkapan layar MalayDoom dalam permainan. Jika anda ingin melihat tangkapan layar lama daripada proses pembangunan projek ini, ia boleh dilihat [di sini](assets/screenshots/history/README.md)!
 
 ## History
 

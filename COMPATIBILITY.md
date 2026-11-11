@@ -10,23 +10,23 @@ This page records the localization features tested across different ports and ve
 
 This is a simplified compatibility table for MalayDoom, listing which features used by MalayDoom are supported by the latest versions of the tested ports. For the master table with more in-depth details, check the [Master Compatibility Table](#master-compatibility-table) section below.
 
-| Ports / Features         | DeHackEd / BEX          | UMAPINFO* | Level Name Graphics | Menu Graphics | Port-specific Menu Graphics** | Widescreen Graphics***  |
-| ------------------------ |:-----------------------:|:---------:|:-------------------:|:-------------:|:-----------------------------:|:-----------------------:|
-| Chocolate Doom           | Yesᵃ                    | N/A       | Yes                 | Yes           | N/A                           | N/A                     |
-| Crispy Doom              | Yes                     | N/A       | Yes                 | Yes           | Yes                           | Yes                     |
-| PrBoom+ / PrBoomX        | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
-| DSDA-Doom                | Yes                     | Yes       | Yes                 | Yes           | N/A                           | Yes                     |
-| Nyan Doom                | Yes                     | Yes       | Yes                 | Yes           | Partial                       | Yes                     |
-| Woof!                    | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
-| Nugget Doom              | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
-| Cherry Doom              | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
-| UZDoom                   | Yes                     | Yes       | Yes                 | Yes           | N/A                           | Yes                     |
-| Eternity Engine          | Yes                     | Yes       | Yes                 | Yes           | Partial                       | Yes                     |
-| Russian Doom (Win & DOS) | Yes (Win)<br/>N/A (DOS) | N/A       | Yes                 | Yes           | No (Win)ᵇ<br/>Partial (DOS)ᵇ  | Yes (Win)<br/>N/A (DOS) |
-| ZDoom                    | Yes                     | N/A       | Yes                 | Yes           | N/A                           | N/A                     |
-| LZDoom                   | Yes                     | N/A       | Yes                 | Yes           | Partialᵇ                      | Yes                     |
-| Boom (DOS)               | Yesᵇ                    | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
-| MBF (DOS)                | Yes                     | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
+| Ports / Features                                                                                          | DeHackEd / BEX          | UMAPINFO* | Level Name Graphics | Menu Graphics | Port-specific Menu Graphics** | Widescreen Graphics***  |
+| --------------------------------------------------------------------------------------------------------- |:-----------------------:|:---------:|:-------------------:|:-------------:|:-----------------------------:|:-----------------------:|
+| [Chocolate Doom](https://github.com/chocolate-doom/chocolate-doom)                                        | Yesᵃ                    | N/A       | Yes                 | Yes           | N/A                           | N/A                     |
+| [Crispy Doom](https://github.com/fabiangreffrath/crispy-doom)                                             | Yes                     | N/A       | Yes                 | Yes           | Yes                           | Yes                     |
+| [PrBoom+](https://github.com/coelckers/prboom-plus) / [PrBoomX](https://github.com/JadingTsunami/prboomX) | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
+| [DSDA-Doom](https://github.com/dsda-org/dsda-doom/)                                                       | Yes                     | Yes       | Yes                 | Yes           | N/A                           | Yes                     |
+| [Nyan Doom](https://github.com/andrikpowell/nyan-doom/)                                                   | Yes                     | Yes       | Yes                 | Yes           | Partial                       | Yes                     |
+| [Woof!](https://github.com/fabiangreffrath/woof/)                                                         | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
+| [Nugget Doom](https://github.com/MrAlaux/Nugget-Doom)                                                     | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
+| [Cherry Doom](https://github.com/xemonix0/Cherry-Doom)                                                    | Yes                     | Yes       | Yes                 | Yes           | Yes                           | Yes                     |
+| [UZDoom](https://zdoom.org/downloads)                                                                     | Yes                     | Yes       | Yes                 | Yes           | N/A                           | Yes                     |
+| [Eternity Engine](https://github.com/team-eternity/eternity)                                              | Yes                     | Yes       | Yes                 | Yes           | Partial                       | Yes                     |
+| [Russian Doom](https://github.com/Russian-Doom/) (Win & DOS)                                              | Yes (Win)<br/>N/A (DOS) | N/A       | Yes                 | Yes           | No (Win)ᵇ<br/>Partial (DOS)ᵇ  | Yes (Win)<br/>N/A (DOS) |
+| [ZDoom](https://zdoom.org/downloads)                                                                      | Yes                     | N/A       | Yes                 | Yes           | N/A                           | N/A                     |
+| [LZDoom](https://zdoom.org/downloads)                                                                     | Yes                     | N/A       | Yes                 | Yes           | Partialᶜ                      | Yes                     |
+| [Boom](https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202) (DOS)                               | Yesᵇ                    | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
+| [MBF](https://www.doomworld.com/idgames/source/mbf) (DOS)                                                 | Yes                     | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
 
 \* Required for some of the files included in MalayDoom. See the [UMAPINFO Compatibility](#umapinfo-compatibility) section below
 
