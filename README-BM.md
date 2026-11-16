@@ -8,11 +8,9 @@ MalayDoom ialah projek peminat tidak rasmi yang menterjemahkan Classic Doom dan 
 
 > **Projek ini tidak mempunyai sebarang kaitan dengan, tajaan daripada, atau sokongan rasmi daripada id Software atau Bethesda.**
 
-> *Revision pertama projek ini akan diterbitkan pada 16hb November ini.*
-
 ## Permainan yang Disokong
 
-MalayDoom Revision 1 akan menyediakan WAD penterjemahan untuk permainan berikut:
+MalayDoom Revision 1 menyediakan WAD penterjemahan untuk permainan berikut:
 
 - The Ultimate Doom
 

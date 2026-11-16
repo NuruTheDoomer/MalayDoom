@@ -11,6 +11,7 @@ MalayDoom uses consistent terminology for common Doom gameplay terms where appro
 | Level                                         | Tahap                       | Used consistently as the level number label in Doom 2 and expansions based on it. Doom 1 level number label still uses ExMy. |
 | You got... / Picked up...                     | Dapat...                    | Used for pickup messages. These two message prefixes share the same translations to make the overall translation shorter.    |
 | Ammo                                          | Amunisi                     | Amunisi is used instead of "Peluru" to not have it collide with the translation for the Bullet ammunition.                   |
+| Bullet clips                                  | Magazin peluru              |                                                                                                                              |
 | Shells                                        | Peluru gotri                | "Peluru gotri" is used to distinguish shotgun ammunition from generic bullets. Abbreviated to `GTRI` on the status bar.      |
 | Cell (ammo type)                              | Bateri                      | A more natural representation of the Cell ammunition in Malay. Abbreviated to `BTRI` on the status bar.                      |
 | Energy Cell / Energy Cell Pack (pickup items) | Kotak Bateri Kecil/Besar    | Lit. small/big battery box.                                                                                                  |
@@ -72,7 +73,7 @@ Some level names use puns, jokes, double meanings, idioms, or deliberately unusu
 
 Depending on the context, MalayDoom may preserve the original wordplay or tone, adapt it into a different Malay expression, or use a title that better reflects the level's setting or role in the game.
 
-Examples include:
+
 
 ##### Doom II MAP07
 

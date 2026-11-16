@@ -22,7 +22,7 @@ MalayDoom does not distribute the required IWADs and official expansion PWADs. U
 
 ## MIDI Packs
 
-Some MalayDoom releases provide compatibility addons for third-party MIDI replacement packs.
+Some MalayDoom releases provide compatibility addons for third-party MIDI packs.
 
 These addons contain compatibility definitions or related resources; they are **not the MIDI packs themselves**.
 

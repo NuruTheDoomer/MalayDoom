@@ -4,7 +4,7 @@ MalayDoom aims to support a broad range of Doom source ports, covering both clas
 
 This page records the localization features tested across different ports and versions, including DeHackEd/BEX text mnemonics and menu graphics. Compatibility may vary between ports and versions.
 
-> **Last updated: 10th November 2026**
+> **Last updated: 16th of November 2026**
 
 ## Compatibility Table
 
@@ -154,7 +154,7 @@ This master table provides an overview of MalayDoom's compatibility across the t
 
 The test is done using the following ports:
 
-Chocolate Doom v3.1.1, Crispy Doom v7.1.0, PrBoom+ v2.6.66, PrBoomX v2.9.2, DSDA-Doom v0.28.2 & v0.30.0, Nyan Doom v1.2.4 & v1.6.0, Woof v15.3.0 & v16.0.0, Nugget Doom v5.1.0 & v6.0.1, Cherry Doom v2.1.0, UZDoom v5.0.1, Eternity Engine v4.06.00, Russian Doom (Win) v6.3, ZDoom 2.8.1, LZDoom v4.14.4, Boom v2.02, MBF v2.03, Russian Doom (DOS) v1.8
+Chocolate Doom v3.1.1, Crispy Doom v7.1.0, PrBoom+ v2.6.66, PrBoomX v2.9.2, DSDA-Doom v0.28.2 & v0.30.0, Nyan Doom v1.2.4 & v1.6.0, Woof! v15.3.0 & v16.0.0, Nugget Doom v5.1.0 & v6.0.1, Cherry Doom v2.1.0, UZDoom v5.0.1, Eternity Engine v4.06.00, Russian Doom (Win) v6.3, ZDoom 2.8.1, LZDoom v4.14.4, Boom v2.02, MBF v2.03, Russian Doom (DOS) v1.8
 
 | Status | Meaning                                                                                                                                                                           |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -186,7 +186,7 @@ Chocolate Doom v3.1.1, Crispy Doom v7.1.0, PrBoom+ v2.6.66, PrBoomX v2.9.2, DSDA
 | "Press Y to Quit." text (DOSY)                                 | N         | N      | Y       | Y       | Y    | Y      | R      | R      | Y      | Y      | Y        | N                  | Y     | Y      | Y          | Y         | -                  |
 | Secret revealed notification (HUSTR_SECRETFOUND)               | -         | N      | N       | N       | Y    | Y**⁴** | Y**⁴** | Y**⁴** | Y**⁴** | A      | N        | A                  | A     | A      | -          | -         | -                  |
 | Alternate secret revealed notifications (Count, Percentage...) | -         | -      | -       | -       | -    | N      | N      | N      | N      | -      | -        | -                  | -     | -      | -          | -         | -                  |
-| Milestone notifications                                        | -         | -      | -       | -       | -    | N      | N      | N      | N      | -      | -        | -                  | -     | -      | -          | -         | -                  |
+| Milestone notifications                                        | -         | -      | -       | N       | -    | N      | N      | N      | N      | -      | -        | -                  | -     | -      | -          | -         | -                  |
 | Evil Sceptre & Unholy Bible pickup message (BETA_BONUS3/4)     | -         | Y      | -       | -       | Y    | Y      | Y      | Y      | Y      | A      | Y        | A                  | A     | A      | -          | -         | -                  |
 | "Empty Slot" text (EMPTYSTRING)                                | N         | N      | Y       | Y       | Y    | Y      | Y      | Y      | Y      | -      | -        | -                  | -     | -      | Y          | Y         | -                  |
 | "Gamma Correction Level" text (GAMMALVL)                       | Y         | Y      | Y       | Y       | Y    | Y      | N      | N      | N      | -      | Y        | A                  | A     | A      | Y          | Y         | -                  |
@@ -208,7 +208,7 @@ Chocolate Doom v3.1.1, Crispy Doom v7.1.0, PrBoom+ v2.6.66, PrBoomX v2.9.2, DSDA
 
 **3** = Requires the separate deh file (or `-dehlump` parameter for Chocolate Doom)
 
-**4** = Nyan: Secret Message Format must be set to `Default`; Woof/Nugget/Cherry: Announce Revealed Secrets must be set to `On`
+**4** = Nyan: Secret Message Format must be set to `Default`; Woof!/Nugget/Cherry: Announce Revealed Secrets must be set to `On`
 
 \* = See the [Not Supported](#not-supported) section below
 
@@ -239,4 +239,4 @@ Chocolate Doom v3.1.1, Crispy Doom v7.1.0, PrBoom+ v2.6.66, PrBoomX v2.9.2, DSDA
 
 Another removal is the `DOSY` BEX mnemonic (the "Press Y to quit" text) support in **Woof! v16.0.0** and **Nugget Doom v6.0.0**.
 
-The affected lumps and mnemonics are still kept in the wad files in case some other ports also use the same lumps and/or mnemonics. For example, Cherry Doom, a fork of Nugget Doom, still use Boom's static menu graphic lumps, and thus will use `M_LVLTBL` for the Level Table Menu option.
+The affected lumps and mnemonics are still kept in the wad files in case some other ports also use the same lumps and/or mnemonics. For example, Cherry Doom, a fork of Nugget Doom, still use Boom's static menu graphic lumps, and thus will use `M_LVLTBL` for the Level Table menu option.

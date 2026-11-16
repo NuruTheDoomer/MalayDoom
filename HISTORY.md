@@ -4,7 +4,7 @@ This page documents the history of the project, mostly from my own recollection,
 
 ## 2021-2023
 
-MalayDoom began around 2021 as a small fan-made side-project to translate Doom into Bahasa Melayu while working on other localization works. Initially I named it KetupatDoom, inspired by the [BaguetteDoom](https://www.doomworld.com/forum/topic/108152-baguettedoom-a-fanmade-french-translation-of-doom/) project which adds fanmade French translations to GZDoom... I also started making the project as a GZDoom wad, using the `LANGUAGE` lump (that is the old ZDoom format, not the newer CSV format) and all... But eventually I thought of making the project compatible with all the other source ports other than GZDoom so I restarted the project and started utilizing BEX instead, which is compatible with a lot more ports.
+MalayDoom began around 2021 as a small fan-made side-project to translate Doom into Bahasa Melayu while working on other localization works, particularly Minecraft and projects related to it. Initially I named it KetupatDoom, inspired by the [BaguetteDoom](https://www.doomworld.com/forum/topic/108152-baguettedoom-a-fanmade-french-translation-of-doom/) project which adds fanmade French translations to GZDoom... I also started making the project as a GZDoom wad, using the `LANGUAGE` lump (that is the old ZDoom format, not the newer CSV format) and all... But eventually I thought of making the project compatible with all the other source ports other than GZDoom so I restarted the project and started utilizing BEX instead, which is compatible with a lot more ports.
 
 If you're wondering why I decided to make this project, it's because I was (and still am) part of the Minecraft translation team, as part of which I helped translate the game into Malay. And I think my interest in translating stuff into Malay somehow manifested in Doom as well, especially after seeing the BaguetteDoom project.
 
@@ -26,13 +26,11 @@ During this time the wad files for the expansions' translations are finalized, a
 
 Some of the translations are also finalized, with huge changes happening to some of the level names and, more notably, the intermission texts, with the goal of hopefully getting the translation to feel closer to the original material.
 
-Unfortunately, due to unforseen situations throughout the month, I've decided to postpone the release of MalayDoom until the 16th of November...
+Unfortunately, due to unforseen situations throughout the month, I've decided to postpone the release of MalayDoom until the 16th of November... Fast forward to the 16th of November, the first public release of MalayDoom has been released!
 
 ### Future Revisions
 
-Future revisions of this project will hopefully include stuff like the full localized graphics for the title screens, credits screens, help screens, the game logo (M_DOOM), and support for more BEX mnemonics specific to some ports, as well as other localization lumps such as ZDoom's/Helion's `LANGUAGE` lump
-
-
+Future revisions of this project will hopefully include stuff like the full localized graphics for the title screens, credits screens, help screens, the game logo (M_DOOM), and support for more BEX mnemonics specific to some ports, as well as other localization lumps such as ZDoom's/Helion's `LANGUAGE` lump.
 
 ### Extra Trivias
 

@@ -8,13 +8,11 @@ MalayDoom is an unofficial fan-made project that localizes Classic Doom and rela
 
 > **This project is not affiliated with, sponsored by, or endorsed by id Software or Bethesda.**
 
-> *The first revision of this project will be released on 16th of November.*
-
 > Untuk baca versi bahasa Melayu README ini, boleh pergi ke [sini](README-BM.md)!
 
 ## Supported Games
 
-MalayDoom Revision 1 will include localization WADs for:
+MalayDoom Revision 1 includes localization WADs for:
 
 - The Ultimate Doom
 
