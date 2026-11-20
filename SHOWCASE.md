@@ -173,4 +173,5 @@ These are captured using DSDA-Doom, which have support for both the prompt messa
   <img width="300" src="assets/screenshots/showcase/endoom_dsda.png" alt="" />
 
 - The Plutonia Experiment in UZDoom
+
   <img width="300" src="assets/screenshots/showcase/endoom_uzdoom.png" alt="" />
