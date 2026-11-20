@@ -25,7 +25,7 @@ This is a simplified compatibility table for MalayDoom, listing which features u
 | [Russian Doom](https://github.com/Russian-Doom/) (Win & DOS)                                              | Yes (Win)<br/>N/A (DOS) | N/A       | Yes                 | Yes           | No (Win)ᵇ<br/>Partial (DOS)ᵇ  | Yes (Win)<br/>N/A (DOS) |
 | [ZDoom](https://zdoom.org/downloads)                                                                      | Yes                     | N/A       | Yes                 | Yes           | N/A                           | N/A                     |
 | [LZDoom](https://zdoom.org/downloads)                                                                     | Yes                     | N/A       | Yes                 | Yes           | Partialᶜ                      | Yes                     |
-| [Boom](https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202) (DOS)                               | Yesᵇ                    | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
+| [Boom](https://www.doomworld.com/idgames/themes/TeamTNT/boom/boom202) (DOS)                               | Yesᵈ                    | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
 | [MBF](https://www.doomworld.com/idgames/source/mbf) (DOS)                                                 | Yes                     | N/A       | Yes                 | Yes           | Yes                           | N/A                     |
 
 \* Required for some of the files included in MalayDoom. See the [UMAPINFO Compatibility](#umapinfo-compatibility) section below
@@ -34,7 +34,7 @@ This is a simplified compatibility table for MalayDoom, listing which features u
 
 \*** Applies to the MalayDoom-WideBar.wad file and other future widescreen graphics
 
-a: Requires the `-dehlump` command-line parameter to load the embedded DEHACKED lump
+a: Requires the `-dehlump` command-line parameter to load the embedded DEHACKED lump, or the included `MalayDoom-DeHackEd.deh` file
 
 b: The `Ultra-Nightmare` difficulty option graphic included in MalayDoom are not loaded in the Windows version of the port, but does in the DOS version
 

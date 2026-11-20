@@ -9,6 +9,7 @@ This page lists out anything that is still missing from the current latest revis
 - [ ] Game logos (TNT: Evilution & The Plutonia Experiment, and potentially for No Rest for the Living and Legacy of Rust as well)
 - [ ] Title screens (TNT: Evilution & The Plutonia Experiment, and potentially for No Rest for the Living and Legacy of Rust as well)
 - [ ] BOSSBACK graphics (maybe for Legacy of Rust)
+- [ ] END* graphics (Ultimate Doom)
 
 ### Text & String Compatibility
 
@@ -17,6 +18,6 @@ This page lists out anything that is still missing from the current latest revis
 - [ ] ZDoom's `LANGUAGE` lump
 - [ ] Helion's `LANGUAGE` lump
 
-#### Game/WAD Support
+### Game/WAD Support
 
 - [ ] Freedoom (Phase 1 & 2, FreeDM)

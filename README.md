@@ -12,7 +12,7 @@ MalayDoom is an unofficial fan-made project that localizes Classic Doom and rela
 
 ## Supported Games
 
-MalayDoom Revision 1 includes localization WADs for:
+MalayDoom Revision 1.1 includes localization WADs for:
 
 - The Ultimate Doom
 
@@ -34,7 +34,7 @@ Master Levels has separate PSN and KEX WADs because the two releases use differe
 
 Download the latest release from [**GitHub Releases**](https://github.com/NuruTheDoomer/MalayDoom/releases).
 
-The complete release archive includes the localization WADs, documentation, and other relevant files. Individual WADs and optional compatibility addons are also available where applicable.
+The complete release archive includes the localization WADs, documentation, and other relevant files. Optional compatibility addons are also available where applicable.
 
 A separate DOS-compatible distribution is available for supported games for use with compatible DOS source ports like Boom and MBF.
 

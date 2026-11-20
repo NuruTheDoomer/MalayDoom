@@ -10,7 +10,7 @@ MalayDoom ialah projek peminat tidak rasmi yang menterjemahkan Classic Doom dan 
 
 ## Permainan yang Disokong
 
-MalayDoom Revision 1 menyediakan WAD penterjemahan untuk permainan berikut:
+MalayDoom Revision 1.1 menyediakan WAD penterjemahan untuk permainan berikut:
 
 - The Ultimate Doom
 
@@ -32,7 +32,7 @@ Master Levels mempunyai WAD berasingan untuk versi PSN dan KEX kerana kedua-dua 
 
 Muat turun terbitan terkini melalui [**GitHub Releases**](https://github.com/NuruTheDoomer/MalayDoom/releases).
 
-Arkib keluaran lengkap mengandungi WAD terjemahan, dokumentasi dan fail lain yang berkaitan. WAD individu dan addon keserasian pilihan turut disediakan jika berkenaan.
+Arkib keluaran lengkap mengandungi WAD terjemahan, dokumentasi dan fail lain yang berkaitan. Addon keserasian pilihan turut disediakan jika berkenaan.
 
 Satu edaran berasingan yang serasi dengan DOS turut disediakan untuk permainan yang disokong, bagi kegunaan dengan source port DOS yang serasi seperti Boom dan MBF.
 
